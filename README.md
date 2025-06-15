@@ -1,8 +1,15 @@
 # Analisis Segmentasi Calon Pemegang Kartu Kredit Berdasarkan Karakteristik Finansial Menggunakan Algoritma K-Means
 
-Proyek ini merupakan tugas akhir mata kuliah *Machine Learning* dari mahasiswa Sains Data angkatan 2022, Fakultas Teknik Informatika, Telkom University Kampus Surabaya.
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Status](https://img.shields.io/badge/Project-Final-green)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Made with](https://img.shields.io/badge/Made%20with-Colab-yellow)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjD5ED0gQHE574AE1wlfGpDp28xWYl2J)
 
-Saya melakukan segmentasi terhadap calon pemegang kartu kredit berdasarkan karakteristik finansial mereka menggunakan algoritma **K-Means Clustering**. Tujuan dari analisis ini adalah untuk membantu pihak bank atau penyedia layanan keuangan dalam memahami profil nasabah secara lebih mendalam sehingga strategi pemasaran dan keputusan persetujuan kredit dapat dilakukan secara lebih tepat sasaran.
+> **Deskripsi:**  
+> Proyek analisis segmentasi calon pemegang kartu kredit menggunakan algoritma K-Means untuk mengelompokkan individu berdasarkan karakteristik finansial. Disusun sebagai tugas akhir mata kuliah *Machine Learning*, program studi Sains Data 2022, Telkom University Surabaya.
+
+---
 
 ### 📊 Dataset
 
@@ -11,6 +18,8 @@ Data diambil dari repositori **UCI Machine Learning Repository** dan telah diber
 - UCI Repository: [Credit Approval Dataset](https://archive.ics.uci.edu/dataset/27/credit+approval)  
 - Kaggle (Cleaned Data): [Credit Card Approval - Clean Data by Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/credit-card-approval-clean-data/data)
 
+---
+
 
 ### 📌 Alur Analisis
 
@@ -18,7 +27,10 @@ Data diambil dari repositori **UCI Machine Learning Repository** dan telah diber
 2. **Exploratory Data Analysis (EDA)** – Visualisasi distribusi data dan korelasi antar fitur.  
 3. **Clustering** – Menerapkan algoritma K-Means dan menentukan jumlah klaster optimal menggunakan metode Elbow dan Silhouette Score.  
 4. **Interpretasi Hasil** – Menganalisis karakteristik tiap klaster yang terbentuk.  
-5. **Dokumentasi** – Seluruh proses didokumentasikan dalam file notebook dan repository GitHub ini.
+5. **Dokumentasi** – Seluruh proses didokumentasikan dalam notebook dan repository GitHub ini.
 
+---
+
+📌 *Silakan buka notebook melalui badge Colab di atas untuk melihat proses analisis lengkap beserta visualisasi dan hasil segmentasi.*
 
 
