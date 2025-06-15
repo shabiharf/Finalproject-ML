@@ -2,7 +2,7 @@
 
 Proyek ini merupakan tugas akhir mata kuliah *Machine Learning* dari mahasiswa Sains Data angkatan 2022, Fakultas Teknik Informatika, Telkom University Kampus Surabaya.
 
-Kami melakukan segmentasi terhadap calon pemegang kartu kredit berdasarkan karakteristik finansial mereka menggunakan algoritma **K-Means Clustering**. Tujuan dari analisis ini adalah untuk membantu pihak bank atau penyedia layanan keuangan dalam memahami profil nasabah secara lebih mendalam sehingga strategi pemasaran dan keputusan persetujuan kredit dapat dilakukan secara lebih tepat sasaran.
+Saya melakukan segmentasi terhadap calon pemegang kartu kredit berdasarkan karakteristik finansial mereka menggunakan algoritma **K-Means Clustering**. Tujuan dari analisis ini adalah untuk membantu pihak bank atau penyedia layanan keuangan dalam memahami profil nasabah secara lebih mendalam sehingga strategi pemasaran dan keputusan persetujuan kredit dapat dilakukan secara lebih tepat sasaran.
 
 ### 📊 Dataset
 
