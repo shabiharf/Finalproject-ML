@@ -31,6 +31,13 @@ Data diambil dari repositori **UCI Machine Learning Repository** dan telah diber
 
 ---
 
+### 📁 File dalam Repository
+
+- Dataset yang sudah dibersihkan
+- Laporan akhir proyek
+
+---
+
 📌 *Silakan buka notebook melalui badge Colab di atas untuk melihat proses analisis lengkap beserta visualisasi dan hasil segmentasi.*
 
 
