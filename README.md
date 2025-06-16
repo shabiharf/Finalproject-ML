@@ -10,7 +10,8 @@
 > Proyek analisis segmentasi calon pemegang kartu kredit menggunakan algoritma K-Means untuk mengelompokkan individu berdasarkan karakteristik finansial. Disusun sebagai tugas akhir mata kuliah *Machine Learning*, program studi Sains Data 2022, Telkom University Surabaya.
 
 ---
-
+Shabiha Rahma Fauziah / 1206220017
+---
 ### 📊 Dataset
 
 Data diambil dari repositori **UCI Machine Learning Repository** dan telah dibersihkan oleh **Samuel Cortinhas** di Kaggle. Kami menggunakan versi data yang telah dibersihkan untuk proses analisis lebih lanjut dan pembuatan model clustering.
